@@ -1,0 +1,13 @@
+venv/
+myenv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Large Datasets
+dataset/
+models/preprocessed_data.npz
+
+# Secrets
+.env
